@@ -13,7 +13,7 @@ A lightning-fast, keyboard-driven tool for efficiently reviewing and categorizin
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/MohibShaikh/websitereviewer.git
+git clone [https://github.com/MohibShaikh/websitereviewer.git](https://github.com/MohibShaikh/WebFlow-Reviewer.git)
 cd website-reviewer
 pip install -r requirements.txt
 ```
